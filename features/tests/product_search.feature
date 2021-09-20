@@ -3,6 +3,6 @@ Feature: Test Scenarios for Search functionality
 
   Scenario: User can search for a product
     Given Open Google page
-    When Input iphone into search field
+    When Input iPad into search fieldgg
     And Click on search icon
-    Then Product results for iphone are shown
+    Then Product results for iPad are shown
